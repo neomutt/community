@@ -1,0 +1,9 @@
+Core
+
+https://bitbucket.org/mutt/mutt
+https://github.com/flatcap/mutt-sidebar
+https://github.com/neomutt/flatcap
+https://github.com/neomutt/panel-manager
+https://github.com/neomutt/upstream
+https://github.com/ThomasAdam/mutt
+
