@@ -1,40 +1,53 @@
-User/Repo                            Type  Commit ID     Last Commit Host                                                    Version  Patches
-0xAX/mutt                            git   c054483       2015-09-23  https://github.com/0xAX/mutt                            1.5.23   OLD VERSION OF karelzak/mutt-kz
-2ion/mutt-1.5.22                     git   937eeff       2013-12-13  https://github.com/2ion/mutt-1.5.22                     1.5.22   sidebar.gentoo-openbsd, trashdir
-arnt/mutt                            hg    a83a4387c353  2014-07-17  https://bitbucket.org/arnt/mutt                         1.5.22   unicode-email-addresses
-aschrab/mutt                         git   f1a3533       2012-07-22  https://github.com/aschrab/mutt                         1.5.21   multiple sidebar
-BackupTheBerlios/mutt-ng-svn         git   31759fa       2006-04-29  https://github.com/BackupTheBerlios/mutt-ng-svn         1.5.9    nntp, initials, quote, compressed
-BackupTheBerlios/mutt-win32          git   b08e646       2009-06-29  https://github.com/BackupTheBerlios/mutt-win32          1.5.20   NONE
-brendan/mutt-testdrive               hg    0447a3ad0d23  2010-04-24  https://bitbucket.org/brendan/mutt-testdrive            1.5.20   testdrive?
-daniel-w/mutt                        git   2b10ec9       2010-02-11  https://github.com/daniel-w/mutt                        1.5.20   NONE
-dgc/mirrors-mutt                     hg    d414971f0c48  2012-10-16  https://bitbucket.org/dgc/mirrors-mutt                  1.5.21   NONE
-dgc/mutt-keywords                    hg    4e78a5528284  2012-04-09  https://bitbucket.org/dgc/mutt-keywords                 1.5.21   x-labels, bug fixes
-eduFLOSS/mutt                        hg    faa85ed8a7c9  2015-08-29  https://bitbucket.org/eduFLOSS/mutt                     1.5.23   NONE
-ElDeveloper/mutt                     git   8a73293       2014-09-07  https://github.com/ElDeveloper/mutt                     1.5.23   sidebar-20140412, new-command
-evgeni2/mutt-sidebar                 hg    a9b7878ff6da  2014-03-12  https://bitbucket.org/evgeni/mutt-sidebar               1.5.22   sidebar.20130219
-fastmutex/mutt                       git   14a4695       2014-04-15  https://github.com/fastmutex/mutt                       1.5.23   sidebar.20140412
-gi1242/mutt                          git   67bc832       2014-09-07  https://github.com/gi1242/mutt                          1.5.23   x-label
-guns/mutt                            git   0581a13       2015-01-02  https://github.com/guns/mutt                            1.5.23   crypto bugfixes
-hihellobolke/mutt-extra              git   451600        2014-12-28  https://github.com/hihellobolke/mutt-extra              1.5.23   OLD VERSION of arch-linux mutt-patched
-jagguli/mutt-kz                      git   6dc6732       2012-05-11  https://bitbucket.org/jagguli/mutt-kz                   1.5.21   OLD VERSION OF karelzak/mutt-kz
-jakobmatthes/mutt-debian             git   e1ec09c       2012-06-04  https://github.com/jakobmatthes/mutt-debian             1.5.21   multiple sidebar
-jcs/mutt                             git   9442411       2015-12-08  https://github.com/jcs/mutt                             1.5.23   sidebar.gentoo-openbsd, various bugfixes
-jlehen/mutt-parent_child_match       git   e6c0bdb       2012-08-05  https://github.com/jlehen/mutt-parent_child_match       1.5.21   parent-child match
-jlh/mutt-parent_child_match          git   e6c0bdb       2012-08-05  https://bitbucket.org/jlh/mutt-parent_child_match       1.5.21   IDENTICAL TO jlehen/mutt-parent_child_match
-kadamski/my_mutt                     git   61e2a78       2014-12-14  https://github.com/kadamski/my_mutt                     1.5.23   sidebar-20140412, sidebar postpone view, fix header wrapping
-karelzak/mutt-kz                     git   d97d605       2015-11-16  https://github.com/karelzak/mutt-kz                     1.5.23   sidebar-OLD, notmuch, various bugfixes
-kbraga111/muttassign6-ed.purp.only-  git   fe1a552       2014-03-22  https://github.com/kbraga111/muttassign6-ed.purp.only-  1.5.22   NONE
-mattwind/mutt                        git   5bdbb86       2015-06-06  https://github.com/mattwind/mutt                        1.5.23   sidebar.20140412, cd.trash_folder.3.4
-pdmef/mutt-testdrive                 hg    8581235f4eec  2009-08-20  https://bitbucket.org/pdmef/mutt-testdrive              1.5.20   OLD VERSION of brendan/mutt-testdrive
-prakashsurya/mutt-1.5.20             git   b1c9ec8       2011-07-01  https://github.com/prakashsurya/mutt-1.5.20             1.5.20   sidebar-20090619
-psych0tik/mutt                       git   5a9a17e       2012-05-15  https://github.com/psych0tik/mutt                       1.5.21   debian patches, inc sidebar
-qmx/mutt                             git   c210b0e       2013-05-04  https://github.com/qmx/mutt                             1.5.21   sidebar-20130219, trashdir-1.5.21-6.2
-radhermit/mutt                       hg    c26dbc7021f4  2011-12-20  https://bitbucket.org/radhermit/mutt                    1.5.21   NONE
-Safari77/mutt-sidebar                git   f4ad109       2015-12-04  https://github.com/Safari77/mutt-sidebar                1.5.24   sidebar.20151111, various bugfixes
-sjl/hg-review-mutt-test              hg    08d4f19d18df  2010-07-14  https://bitbucket.org/sjl/hg-review-mutt-test           1.5.20   2 unimportant patches
-tait/mutt                            hg    2f39b47c3c39  2014-12-08  https://bitbucket.org/tait/mutt                         1.5.23   base-64 hack
-tejux/mutt-hacks                     git   bfeccb6       2015-07-19  https://github.com/tejux/mutt-hacks                     1.5.23   sidebar.gentoo-openbsd, sidebar-jump, sidebar-color, various bugfixes
-tonnerre/mutt                        git   373dba8       2009-02-27  https://github.com/tonnerre/mutt                        1.5.19   NONE
-tristansu/mutt                       hg    39d3ddb56d34  2014-11-04  https://bitbucket.org/tristansu/mutt                    1.5.23   NONE
-weynhamz/mutt                        git   dcc6be7       2013-04-17  https://github.com/weynhamz/mutt                        1.5.21   NONE
-zmughal/mutt                         git   7af0989       2012-06-22  https://github.com/zmughal/mutt                         1.5.21   debian patches, inc sidebar
+User/Repo                              Type  Commit ID     Last Commit Host                                                      Version  Patches
+
+*** Mutt source -- no patches
+BackupTheBerlios/mutt-win32            git   b08e646       2009-06-29  https://github.com/BackupTheBerlios/mutt-win32            1.5.20   NONE
+daniel-w/mutt                          git   2b10ec9       2010-02-11  https://github.com/daniel-w/mutt                          1.5.20   NONE
+dgc/mirrors-mutt                       hg    d414971f0c48  2012-10-16  https://bitbucket.org/dgc/mirrors-mutt                    1.5.21   NONE
+eduFLOSS/mutt                          hg    faa85ed8a7c9  2015-08-29  https://bitbucket.org/eduFLOSS/mutt                       1.5.23   NONE
+kbraga111/muttassign6-ed.purp.only-    git   fe1a552       2014-03-22  https://github.com/kbraga111/muttassign6-ed.purp.only-    1.5.22   NONE
+radhermit/mutt                         hg    c26dbc7021f4  2011-12-20  https://bitbucket.org/radhermit/mutt                      1.5.21   NONE
+tonnerre/mutt                          git   373dba8       2009-02-27  https://github.com/tonnerre/mutt                          1.5.19   NONE
+tristansu/mutt                         hg    39d3ddb56d34  2014-11-04  https://bitbucket.org/tristansu/mutt                      1.5.23   NONE
+weynhamz/mutt                          git   dcc6be7       2013-04-17  https://github.com/weynhamz/mutt                          1.5.21   NONE
+
+*** Obsolete -- newer sources exist
+0xAX/mutt                              git   c054483       2015-09-23  https://github.com/0xAX/mutt                              1.5.23   OLD VERSION OF karelzak/mutt-kz
+hihellobolke/mutt-extra                git   451600        2014-12-28  https://github.com/hihellobolke/mutt-extra                1.5.23   OLD VERSION of arch-linux mutt-patched
+jagguli/mutt-kz                        git   6dc6732       2012-05-11  https://bitbucket.org/jagguli/mutt-kz                     1.5.21   OLD VERSION OF karelzak/mutt-kz
+pdmef/mutt-testdrive                   hg    8581235f4eec  2009-08-20  https://bitbucket.org/pdmef/mutt-testdrive                1.5.20   OLD VERSION of brendan/mutt-testdrive
+
+*** Obsolete -- Old sidebar, nothing else
+evgeni2/mutt-sidebar                   hg    a9b7878ff6da  2014-03-12  https://bitbucket.org/evgeni/mutt-sidebar                 1.5.22   sidebar.20130219
+fastmutex/mutt                         git   14a4695       2014-04-15  https://github.com/fastmutex/mutt                         1.5.23   sidebar.20140412
+prakashsurya/mutt-1.5.20               git   b1c9ec8       2011-07-01  https://github.com/prakashsurya/mutt-1.5.20               1.5.20   sidebar-20090619
+
+*** Old sidebar, other patches
+2ion/mutt-1.5.22                       git   937eeff       2013-12-13  https://github.com/2ion/mutt-1.5.22                       1.5.22   sidebar.gentoo-openbsd, trashdir
+aschrab/mutt                           git   f1a3533       2012-07-22  https://github.com/aschrab/mutt                           1.5.21   multiple sidebar
+BackupTheBerlios/mutt-ng-svn           git   31759fa       2006-04-29  https://github.com/BackupTheBerlios/mutt-ng-svn           1.5.9    nntp, initials, quote, compressed
+ElDeveloper/mutt                       git   8a73293       2014-09-07  https://github.com/ElDeveloper/mutt                       1.5.23   sidebar-20140412, new-command
+jakobmatthes/mutt-debian               git   e1ec09c       2012-06-04  https://github.com/jakobmatthes/mutt-debian               1.5.21   multiple sidebar
+jcs/mutt                               git   9442411       2015-12-08  https://github.com/jcs/mutt                               1.5.23   sidebar.gentoo-openbsd, various bugfixes
+karelzak/mutt-kz                       git   d97d605       2015-11-16  https://github.com/karelzak/mutt-kz                       1.5.23   sidebar-OLD, notmuch, various bugfixes
+mattwind/mutt                          git   5bdbb86       2015-06-06  https://github.com/mattwind/mutt                          1.5.23   sidebar.20140412, cd.trash_folder.3.4
+psych0tik/mutt                         git   5a9a17e       2012-05-15  https://github.com/psych0tik/mutt                         1.5.21   debian patches, inc sidebar
+qmx/mutt                               git   c210b0e       2013-05-04  https://github.com/qmx/mutt                               1.5.21   sidebar-20130219, trashdir-1.5.21-6.2
+Safari77/mutt-sidebar                  git   f4ad109       2015-12-04  https://github.com/Safari77/mutt-sidebar                  1.5.24   sidebar.20151111, various bugfixes
+zmughal/mutt                           git   7af0989       2012-06-22  https://github.com/zmughal/mutt                           1.5.21   debian patches, inc sidebar
+
+*** Old sidebar, NEW sidebar patches
+kadamski/my_mutt                       git   61e2a78       2014-12-14  https://github.com/kadamski/my_mutt                       1.5.23   sidebar-20140412, sidebar postpone view, fix header wrapping
+tejux/mutt-hacks                       git   bfeccb6       2015-07-19  https://github.com/tejux/mutt-hacks                       1.5.23   sidebar.gentoo-openbsd, sidebar-jump, sidebar-color, various bugfixes
+
+*** Non-sidebar patches
+arnt/mutt                              hg    a83a4387c353  2014-07-17  https://bitbucket.org/arnt/mutt                           1.5.22   unicode-email-addresses
+brendan/mutt-testdrive                 hg    0447a3ad0d23  2010-04-24  https://bitbucket.org/brendan/mutt-testdrive              1.5.20   testdrive?
+dgc/mutt-keywords                      hg    4e78a5528284  2012-04-09  https://bitbucket.org/dgc/mutt-keywords                   1.5.21   x-labels, bug fixes
+gi1242/mutt                            git   67bc832       2014-09-07  https://github.com/gi1242/mutt                            1.5.23   x-label
+guns/mutt                              git   0581a13       2015-01-02  https://github.com/guns/mutt                              1.5.23   crypto bugfixes
+jlehen/mutt-parent_child_match         git   e6c0bdb       2012-08-05  https://github.com/jlehen/mutt-parent_child_match         1.5.21   parent-child match
+jlh/mutt-parent_child_match            git   e6c0bdb       2012-08-05  https://bitbucket.org/jlh/mutt-parent_child_match         1.5.21   IDENTICAL TO jlehen/mutt-parent_child_match
+sjl/hg-review-mutt-test                hg    08d4f19d18df  2010-07-14  https://bitbucket.org/sjl/hg-review-mutt-test             1.5.20   2 unimportant patches
+tait/mutt                              hg    2f39b47c3c39  2014-12-08  https://bitbucket.org/tait/mutt                           1.5.23   base-64 hack
+
