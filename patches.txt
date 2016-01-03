@@ -1,487 +1,486 @@
-
 User/Repo                              Type  Commit_ID     Last_Commit Host                                                      Version
 
 *** Obsolete -- Old sidebar, nothing else
 
 nedos/mutt-sidebar-patch               git   7ba0d8d       2013-10-27  https://github.com/nedos/mutt-sidebar-patch               1.5.22
-	mutt-sidebar.patch
+    1474  mutt-sidebar.patch
 
 nxvl/mutt-patched                      git   c0e7927       2015-01-30  https://github.com/nxvl/mutt-patched                      1.5.23
-	patch-1.5.23.sidebar.20140412.txt
+    2374  patch-1.5.23.sidebar.20140412.txt
 
 paultownsend/homebrew-mutt             git   781dd30       2014-11-03  https://github.com/paultownsend/homebrew-mutt             1.5.23
-	patches/patch-1.5.23.sidebar.20140412.txt
+    2374  patches/patch-1.5.23.sidebar.20140412.txt
 
 *** Old sidebar patches -- already integrated
 
 aur-archive/mutt-tokyo-sidebar         git   993dc25       2015-08-17  https://github.com/aur-archive/mutt-tokyo-sidebar         1.5.23
-	patch-for-first-char-jf.patch
+      11  patch-for-first-char-jf.patch
 
 ismail/mutt-sidebar                    git   48c91e8       2015-12-16  https://github.com/ismail/mutt-sidebar                    1.5.24?
-	sidebar-compose.patch
-	sidebar-delimnullwide.patch
-	sidebar-dotpathsep.patch
-	sidebar-newonly.patch
-	sidebar-utf8.patch
-	sidebar.patch
+      40  sidebar-compose.patch
+      38  sidebar-delimnullwide.patch
+     100  sidebar-dotpathsep.patch
+     198  sidebar-newonly.patch
+     132  sidebar-utf8.patch
+    1471  sidebar.patch
 
 jmdana/mutt-sidebar-patches            git   9e3d4e2       2015-01-18  https://github.com/jmdana/mutt-sidebar-patches            1.5.23
-	shortpath.patch
+      31  shortpath.patch
 
 *** Old sidebar, other patches
 
 aur-archive/mutt-great-dane            git   55215c2       2015-08-17  https://github.com/aur-archive/mutt-great-dane            1.5.21
-	mutt-attach.patch
-	mutt-resent-header-weeding.patch
-	mutt-sendbox-bounce.patch
-	mutt-sendbox.patch
-	mutt-write_postponed.patch
-	mutt-xterm_title.patch.2
-	patch-0.9.csev.urlview-fixes.1
-	patch-0.9.csev.urlview-manprefix.1
-	patch-0.9.dw.urlview-html.3
-	patch-1.5.21.as.echo.2
-	patch-1.5.21.ats.date_conditional.3
-	patch-1.5.21.cd.ifdef.2
-	patch-1.5.21.cd.purge_message.8
-	patch-1.5.21.cd.source_multiple.3
-	patch-1.5.21.csev.ask_passphrase.1
-	patch-1.5.21.csev.fix_pager_face
-	patch-1.5.21.csev.yesnet.1
-	patch-1.5.21.dgc.deepif.2
-	patch-1.5.21.indexcolor-3+cb.diff
-	patch-1.5.21.rr.compressed
-	patch-1.5.21.sidebar.20120829.txt
-	patch-1.5.21.tamo.w3mface.3
-	patch-1.5.21.vvv.initials
-	patch-1.5.21.vvv.nntp.2
-	patch-1.5.21.vvv.quote.2
-	trash_folder-1.5.18.patch
-	urlview.c.qpd-patch
+     115  mutt-attach.patch
+      39  mutt-resent-header-weeding.patch
+     119  mutt-sendbox-bounce.patch
+     125  mutt-sendbox.patch
+     456  mutt-write_postponed.patch
+     181  mutt-xterm_title.patch.2
+      39  patch-0.9.csev.urlview-fixes.1
+      12  patch-0.9.csev.urlview-manprefix.1
+     229  patch-0.9.dw.urlview-html.3
+      95  patch-1.5.21.as.echo.2
+     130  patch-1.5.21.ats.date_conditional.3
+     114  patch-1.5.21.cd.ifdef.2
+     198  patch-1.5.21.cd.purge_message.8
+      56  patch-1.5.21.cd.source_multiple.3
+      39  patch-1.5.21.csev.ask_passphrase.1
+      12  patch-1.5.21.csev.fix_pager_face
+      16  patch-1.5.21.csev.yesnet.1
+      54  patch-1.5.21.dgc.deepif.2
+     607  patch-1.5.21.indexcolor-3+cb.diff
+    1303  patch-1.5.21.rr.compressed
+    2374  patch-1.5.21.sidebar.20120829.txt
+     288  patch-1.5.21.tamo.w3mface.3
+      48  patch-1.5.21.vvv.initials
+    8734  patch-1.5.21.vvv.nntp.2
+      85  patch-1.5.21.vvv.quote.2
+     259  trash_folder-1.5.18.patch
+      82  urlview.c.qpd-patch
 
 aur-archive/mutt-sidebar-trash         git   42bb670       2015-08-17  https://github.com/aur-archive/mutt-sidebar-trash         1.5.21
-	crypt-gpgme.patch
-	pop-cachedir.patch
-	purge_message.patch
-	sidebar.patch
-	trash_folder.patch
+      32  crypt-gpgme.patch
+      12  pop-cachedir.patch
+     197  purge_message.patch
+    1400  sidebar.patch
+     249  trash_folder.patch
 
 evgeni/fedora-mutt-patched             git   92348f9       2015-12-21  https://github.com/evgeni/fedora-mutt-patched             1.5.24
-	mutt-1.5.18-muttrc.patch
-	mutt-1.5.21-cabundle.patch
-	mutt-1.5.21-syncdebug.patch
-	mutt-1.5.23-add_debug_option.patch
-	mutt-1.5.23-domainname.patch
-	mutt-1.5.23-sendlib.patch
-	mutt-1.5.23-ssl_ciphers.patch
-	mutt-1.5.23-system_certs.patch
-	mutt-1.5.24.sidebar.20151111.patch
+      20  mutt-1.5.18-muttrc.patch
+      28  mutt-1.5.21-cabundle.patch
+      12  mutt-1.5.21-syncdebug.patch
+      11  mutt-1.5.23-add_debug_option.patch
+      27  mutt-1.5.23-domainname.patch
+      43  mutt-1.5.23-sendlib.patch
+      74  mutt-1.5.23-ssl_ciphers.patch
+      12  mutt-1.5.23-system_certs.patch
+    2334  mutt-1.5.24.sidebar.20151111.patch
 
 herecura/mutt-patched                  git   74b7919       2015-12-02  https://github.com/herecura/mutt-patched                  1.5.24
-	228671-pipe-mime.patch
-	383769-score-match.patch
-	467432-write_bcc.patch
-	528233-readonly-open.patch
-	531430-imapuser.patch
-	542817-smimekeys-tmpdir.patch
-	543467-thread-segfault.patch
-	548577-gpgme-1.2.patch
-	553321-ansi-escape-segfault.patch
-	566076-build_doc_adjustments.patch
-	603288-split-fetches.patch
-	611410-no-implicit_autoview-for-text-html.patch
-	am-maintainer-mode.patch
-	assumed_charset-compat.patch
-	backport-gnutls-fix.patch
-	compressed-folders.debian.patch
-	compressed-folders.patch
-	correct_docdir_in_man_page.patch
-	define-pgp_getkeys_command.patch
-	document_debian_defaults.patch
-	dont_document_not_present_features.patch
-	fix-configure-test-operator.patch
-	gpg.rc-paths.patch
-	ifdef.patch
-	imap_fast_trash.patch
-	Md.etc_mailname_gethostbyname.patch
-	multiple-fcc.patch
-	Muttrc.patch
-	nntp.patch
-	patch-1.5.4.vk.pgp_verbose_mime.patch
-	path_max.patch
-	purge-message.patch
-	sensible_browser_position.patch
-	sidebar-compose.patch
-	sidebar-delimnullwide.patch
-	sidebar-dotpathsep.patch
-	sidebar-new.patch
-	sidebar-newonly.patch
-	sidebar-utf8.patch
-	sidebar.patch
-	smime.rc.patch
-	trash-folder.patch
-	use_usr_bin_editor.patch
-	xtitles.patch
+      48  228671-pipe-mime.patch
+      25  383769-score-match.patch
+     127  467432-write_bcc.patch
+      39  528233-readonly-open.patch
+      26  531430-imapuser.patch
+      25  542817-smimekeys-tmpdir.patch
+      29  543467-thread-segfault.patch
+      39  548577-gpgme-1.2.patch
+      29  553321-ansi-escape-segfault.patch
+      39  566076-build_doc_adjustments.patch
+      33  603288-split-fetches.patch
+      52  611410-no-implicit_autoview-for-text-html.patch
+      22  am-maintainer-mode.patch
+      27  assumed_charset-compat.patch
+     162  backport-gnutls-fix.patch
+      22  compressed-folders.debian.patch
+    1187  compressed-folders.patch
+      25  correct_docdir_in_man_page.patch
+      24  define-pgp_getkeys_command.patch
+      87  document_debian_defaults.patch
+      39  dont_document_not_present_features.patch
+      22  fix-configure-test-operator.patch
+      29  gpg.rc-paths.patch
+     160  ifdef.patch
+     114  imap_fast_trash.patch
+      82  Md.etc_mailname_gethostbyname.patch
+      83  multiple-fcc.patch
+      81  Muttrc.patch
+    8758  nntp.patch
+      64  patch-1.5.4.vk.pgp_verbose_mime.patch
+      25  path_max.patch
+     241  purge-message.patch
+     115  sensible_browser_position.patch
+      40  sidebar-compose.patch
+      38  sidebar-delimnullwide.patch
+      98  sidebar-dotpathsep.patch
+      97  sidebar-new.patch
+     198  sidebar-newonly.patch
+     132  sidebar-utf8.patch
+    1477  sidebar.patch
+      60  smime.rc.patch
+     316  trash-folder.patch
+      40  use_usr_bin_editor.patch
+     198  xtitles.patch
 
 mirko_iannella/mutt_sidebar            git   c9125d3       2015-09-18  https://bitbucket.org/mirko_iannella/mutt_sidebar         1.5.24
-	sidebar-compose.patch
-	sidebar-delimnullwide.patch
-	sidebar-dotpathsep.patch
-	sidebar-new.patch
-	sidebar-newonly.patch
-	sidebar-utf8.patch
-	sidebar.patch
-	trash-folder.patch
+      40  sidebar-compose.patch
+      38  sidebar-delimnullwide.patch
+      98  sidebar-dotpathsep.patch
+      97  sidebar-new.patch
+     198  sidebar-newonly.patch
+     132  sidebar-utf8.patch
+    1477  sidebar.patch
+     316  trash-folder.patch
 
 openMandrivaAssociation/mutt           git   444eb9b       2015-07-19  https://github.com/OpenMandrivaAssociation/mutt           1.5.23
-	mutt-1.3.15-tmpdef.patch
-	mutt-1.5.11-mailcap.patch
-	mutt-1.5.18-urlview.patch
-	mutt-1.5.20-gpg.patch
-	mutt-1.5.23-CVE-2014-9116.patch
-	mutt-1.5.23-db61.patch
-	mutt-1.5.23-indexcolor.patch
-	mutt-1.5.23-no-sgid.patch
-	mutt-1.5.23-sidebar.patch
-	mutt-1.5.23-xterm-title.patch
-	mutt-1.5.5.1-ncurses-include.patch
-	patch-1.5.23.rr.compressed
-	patch-1.5.23.vvv.nntp
+      11  mutt-1.3.15-tmpdef.patch
+      21  mutt-1.5.11-mailcap.patch
+      12  mutt-1.5.18-urlview.patch
+     128  mutt-1.5.20-gpg.patch
+      39  mutt-1.5.23-CVE-2014-9116.patch
+      11  mutt-1.5.23-db61.patch
+     773  mutt-1.5.23-indexcolor.patch
+      14  mutt-1.5.23-no-sgid.patch
+    1697  mutt-1.5.23-sidebar.patch
+     162  mutt-1.5.23-xterm-title.patch
+      20  mutt-1.5.5.1-ncurses-include.patch
+    1303  patch-1.5.23.rr.compressed
+    8736  patch-1.5.23.vvv.nntp
 
 pld-linux/mutt                         git   dc88d9e       2015-03-15  https://github.com/pld-linux/mutt                         1.5.23
-	format-security.patch
-	mutt-bj.status-time.patch
-	mutt-cd.purge_message.patch
-	mutt-cd.signatures_menu.patch
-	mutt-cd.trash_folder.patch
-	mutt-crypt-autoselectkey.patch
-	mutt-db.patch
-	mutt-folder_columns.patch
-	mutt-forcedotlock.patch
-	mutt-home_etc.patch
-	mutt-imap_fast_trash.patch
-	mutt-imap_recent.patch
-	mutt-keep_to.patch
-	mutt-manual.patch
-	mutt-muttbug-tmp.patch
-	mutt-Muttrc.head.patch
-	mutt-Muttrc.patch
-	mutt-Muttrc_mbox_path.patch
-	mutt-null_name.patch
-	mutt-pl.po-update.patch
-	mutt-po.patch
-	mutt-rr.compressed.patch
-	mutt-sidebar.patch
-	mutt-smime.rc.patch
-	mutt-vvv.nntp.patch
-	mutt-vvv.quote.patch
-	mutt-xface.patch
+      11  format-security.patch
+     173  mutt-bj.status-time.patch
+     211  mutt-cd.purge_message.patch
+     712  mutt-cd.signatures_menu.patch
+     283  mutt-cd.trash_folder.patch
+      71  mutt-crypt-autoselectkey.patch
+      38  mutt-db.patch
+     413  mutt-folder_columns.patch
+      15  mutt-forcedotlock.patch
+     226  mutt-home_etc.patch
+     100  mutt-imap_fast_trash.patch
+      11  mutt-imap_recent.patch
+      47  mutt-keep_to.patch
+      11  mutt-manual.patch
+      18  mutt-muttbug-tmp.patch
+      49  mutt-Muttrc.head.patch
+     112  mutt-Muttrc.patch
+      11  mutt-Muttrc_mbox_path.patch
+      14  mutt-null_name.patch
+     840  mutt-pl.po-update.patch
+      11  mutt-po.patch
+    1307  mutt-rr.compressed.patch
+    2374  mutt-sidebar.patch
+      51  mutt-smime.rc.patch
+    7601  mutt-vvv.nntp.patch
+     136  mutt-vvv.quote.patch
+     561  mutt-xface.patch
 
 codito/muttng-patchset                 git   fa0f669       2010-12-30  https://github.com/codito/muttng-patchset                 1.5.21?
-	patches/ak.fullname-scoring.diff
-	patches/ak.msgid-format.diff
-	patches/ak.rfc2047-fix.diff
-	patches/ak.sidebar-shortenname.diff
-	patches/ak.umask.diff
-	patches/aw.listreply.diff
-	patches/cd.ifdef.diff
-	patches/cd.purge_message.diff
-	patches/cd.source_multiple.diff
-	patches/debian.compressed.diff
-	patches/indexcolor.diff
-	patches/lpr.signin.diff
-	patches/lpr.signoff.diff
-	patches/muttng.abort_noattach.diff
-	patches/muttng.agent_string.diff
-	patches/muttng.credits.diff
-	patches/muttng.editor_headers.diff
-	patches/muttng.strip_was.diff
-	patches/muttng.xterm_title.diff
-	patches/nion.sidebar-color.diff
-	patches/nion.sidebar-next.diff
-	patches/patch-1.5.9.aw.jumptagged.1
-	patches/patch-1.5.9.aw.timeouthook.1
-	patches/pdmef.atoi.diff
-	patches/pdmef.foldername.diff
-	patches/pdmef.ipv6addr.diff
-	patches/pdmef.last-folder.diff
-	patches/sidebar.diff
-	patches/vvv.nntp.diff
+      27  patches/ak.fullname-scoring.diff
+     218  patches/ak.msgid-format.diff
+      27  patches/ak.rfc2047-fix.diff
+     138  patches/ak.sidebar-shortenname.diff
+     123  patches/ak.umask.diff
+      76  patches/aw.listreply.diff
+     121  patches/cd.ifdef.diff
+     424  patches/cd.purge_message.diff
+      64  patches/cd.source_multiple.diff
+    1163  patches/debian.compressed.diff
+     666  patches/indexcolor.diff
+      51  patches/lpr.signin.diff
+      53  patches/lpr.signoff.diff
+     152  patches/muttng.abort_noattach.diff
+      21  patches/muttng.agent_string.diff
+      52  patches/muttng.credits.diff
+     283  patches/muttng.editor_headers.diff
+      92  patches/muttng.strip_was.diff
+     200  patches/muttng.xterm_title.diff
+      96  patches/nion.sidebar-color.diff
+     130  patches/nion.sidebar-next.diff
+      96  patches/patch-1.5.9.aw.jumptagged.1
+     105  patches/patch-1.5.9.aw.timeouthook.1
+     180  patches/pdmef.atoi.diff
+      78  patches/pdmef.foldername.diff
+     125  patches/pdmef.ipv6addr.diff
+     131  patches/pdmef.last-folder.diff
+    1441  patches/sidebar.diff
+    7326  patches/vvv.nntp.diff
 
 jj1bdx/mutt-ja-freebsd-private-port    git   e02ef3e       2013-04-25  https://github.com/jj1bdx/mutt-ja-freebsd-private-port    1.5.21?
-	mutt/files/extra-patch-aspell
-	mutt/files/extra-patch-doc-ref
-	mutt/files/extra-patch-doc-xml
-	mutt/files/extra-patch-greeting
-	mutt/files/extra-patch-ifdef
-	mutt/files/extra-patch-maildir-mtime
-	mutt/files/extra-patch-maildir-mtime-nntp
-	mutt/files/extra-patch-no-mbox-manpage
-	mutt/files/extra-patch-nodoc-contrib
-	mutt/files/extra-patch-nodoc-mailbox-contrib
-	mutt/files/extra-patch-parent-child-match
-	mutt/files/extra-patch-pgp-dw
-	mutt/files/extra-patch-reverse_reply
-	mutt/files/extra-patch-sidebar
-	mutt/files/extra-patch-sidebar-nntp
-	mutt/files/extra-patch-signature-menu
-	mutt/files/extra-patch-smime-outlook
-	mutt/files/extra-patch-trash-purge
-	mutt/files/patch-02
-	mutt/files/patch-05
-	mutt/files/patch-08
-	mutt/files/patch-bdb
-	mutt/files/patch-color-eol
-	mutt/files/patch-configure.ac
-	mutt/files/patch-contrib-Makefile.am
-	mutt/files/patch-crypt-gpgme.c
-	mutt/files/patch-date-conditional
-	mutt/files/patch-doc-manual.xml.head
-	mutt/files/patch-examples
-	mutt/files/patch-gnutls-CN-validation
-	mutt/files/patch-imap-message.c
-	mutt/files/patch-init.c
-	mutt/files/patch-ja-mutt-1.5.21.tt+yy.delete_prefix.1
-	mutt/files/patch-ja-mutt-1.5.21.tt.create_rfc2047_params.1
-	mutt/files/patch-ja-mutt-1.5.21.tt.sanitize_ja_char.1
-	mutt/files/patch-ja-mutt-1.5.21.tt.wcwidth.1
-	mutt/files/patch-Makefile.am
-	mutt/files/patch-Makefile.am.doc
-	mutt/files/patch-mktemp
-	mutt/files/patch-nbsp
-	mutt/files/patch-pgp
-	mutt/files/patch-smime-self
-	mutt/files/patch-smime-sender
-	mutt/files/patch-threadcomplete
-	mutt/mutt-1.5.21-ja.1/patches/mutt-1.5.21-db47.patch
-	mutt/mutt-1.5.21-ja.1/patches/mutt-1.5.21.tt+yy.delete_prefix.1
-	mutt/mutt-1.5.21-ja.1/patches/mutt-1.5.21.tt.create_rfc2047_params.1
-	mutt/mutt-1.5.21-ja.1/patches/mutt-1.5.21.tt.sanitize_ja_char.1
-	mutt/mutt-1.5.21-ja.1/patches/mutt-1.5.21.tt.wcwidth.1
+      11  mutt/files/extra-patch-aspell
+      12  mutt/files/extra-patch-doc-ref
+      11  mutt/files/extra-patch-doc-xml
+     160  mutt/files/extra-patch-greeting
+      79  mutt/files/extra-patch-ifdef
+      52  mutt/files/extra-patch-maildir-mtime
+      44  mutt/files/extra-patch-maildir-mtime-nntp
+      29  mutt/files/extra-patch-no-mbox-manpage
+      28  mutt/files/extra-patch-nodoc-contrib
+      28  mutt/files/extra-patch-nodoc-mailbox-contrib
+     169  mutt/files/extra-patch-parent-child-match
+    1039  mutt/files/extra-patch-pgp-dw
+      92  mutt/files/extra-patch-reverse_reply
+    1603  mutt/files/extra-patch-sidebar
+    1616  mutt/files/extra-patch-sidebar-nntp
+     729  mutt/files/extra-patch-signature-menu
+      11  mutt/files/extra-patch-smime-outlook
+     403  mutt/files/extra-patch-trash-purge
+      32  mutt/files/patch-02
+      43  mutt/files/patch-05
+      10  mutt/files/patch-08
+      11  mutt/files/patch-bdb
+      62  mutt/files/patch-color-eol
+       9  mutt/files/patch-configure.ac
+      11  mutt/files/patch-contrib-Makefile.am
+      10  mutt/files/patch-crypt-gpgme.c
+     147  mutt/files/patch-date-conditional
+      10  mutt/files/patch-doc-manual.xml.head
+     109  mutt/files/patch-examples
+      29  mutt/files/patch-gnutls-CN-validation
+      15  mutt/files/patch-imap-message.c
+      39  mutt/files/patch-init.c
+     105  mutt/files/patch-ja-mutt-1.5.21.tt+yy.delete_prefix.1
+      71  mutt/files/patch-ja-mutt-1.5.21.tt.create_rfc2047_params.1
+     317  mutt/files/patch-ja-mutt-1.5.21.tt.sanitize_ja_char.1
+     907  mutt/files/patch-ja-mutt-1.5.21.tt.wcwidth.1
+      13  mutt/files/patch-Makefile.am
+      11  mutt/files/patch-Makefile.am.doc
+      23  mutt/files/patch-mktemp
+      22  mutt/files/patch-nbsp
+     134  mutt/files/patch-pgp
+      66  mutt/files/patch-smime-self
+      54  mutt/files/patch-smime-sender
+      37  mutt/files/patch-threadcomplete
+      11  mutt/mutt-1.5.21-ja.1/patches/mutt-1.5.21-db47.patch
+     105  mutt/mutt-1.5.21-ja.1/patches/mutt-1.5.21.tt+yy.delete_prefix.1
+      71  mutt/mutt-1.5.21-ja.1/patches/mutt-1.5.21.tt.create_rfc2047_params.1
+     317  mutt/mutt-1.5.21-ja.1/patches/mutt-1.5.21.tt.sanitize_ja_char.1
+     903  mutt/mutt-1.5.21-ja.1/patches/mutt-1.5.21.tt.wcwidth.1
 
 raw-bin/mutt-sidebar-patches-jplenz    git   6a4c0a6       2012-06-15  https://github.com/raw-bin/mutt-sidebar-patches-jplenz    1.5.21?
-	0001-applying-debian-patches-mutt-patched-multiple-fcc.patch
-	0002-applying-debian-patches-mutt-patched-sidebar.patch
-	0003-applying-debian-patches-mutt-patched-sidebar-dotted.patch
-	0004-applying-debian-patches-mutt-patched-sidebar-sorted.patch
-	0005-Fix-sidebar-compilation-errors-on-IRIX-systems.patch
-	0006-Fix-counting-of-flagged-mails-in-mboxes.patch
-	0007-Fix-various-sidebar-drawing-issues.patch
-	0008-Fix-setting-CurrBuffy-when-invoking-mutt-via-f.patch
-	0009-cache-time-when-sidebar-last-counted-all-the-mails.patch
-	0010-only-count-mail-if-sidebar-is-active.patch
-	0011-buffy-check-msg_unread-if-sidebar-is-active.patch
-	0012-fix-sidebar-and-buffy-updates.patch
-	0013-introduce-sidebar_format-option.patch
-	0014-introduce-sidebar_folderindent-option.patch
-	0015-keep-buffer-like-temp-file-in-memory.patch
-	0016-Bugfix-use-realpath-on-initial-folder.patch
-	0017-Sidebar-Copy-numbers-before-leaving-mailbox.patch
-	0018-Fix-Buffy-Sidebar-and-mail_check_recent-issues.patch
-	0019-Copy-number-of-flagged-messages-when-leaving-mbox.patch
-	0020-use-PATH_MAX-instead-of-_POSIX_PATH_MAX-when-realpat.patch
-	0021-remove-outdated-am_c_prototypes_from_configure.patch
-	0022-configure.ac-Stop-using-obsolete-AM_CONFIG_HEADER-ma.patch
-	mutt-sidebar.patch
+      81  0001-applying-debian-patches-mutt-patched-multiple-fcc.patch
+    1403  0002-applying-debian-patches-mutt-patched-sidebar.patch
+      74  0003-applying-debian-patches-mutt-patched-sidebar-dotted.patch
+      83  0004-applying-debian-patches-mutt-patched-sidebar-sorted.patch
+      77  0005-Fix-sidebar-compilation-errors-on-IRIX-systems.patch
+      30  0006-Fix-counting-of-flagged-mails-in-mboxes.patch
+     182  0007-Fix-various-sidebar-drawing-issues.patch
+      28  0008-Fix-setting-CurrBuffy-when-invoking-mutt-via-f.patch
+     128  0009-cache-time-when-sidebar-last-counted-all-the-mails.patch
+      54  0010-only-count-mail-if-sidebar-is-active.patch
+      48  0011-buffy-check-msg_unread-if-sidebar-is-active.patch
+      81  0012-fix-sidebar-and-buffy-updates.patch
+     221  0013-introduce-sidebar_format-option.patch
+      60  0014-introduce-sidebar_folderindent-option.patch
+     195  0015-keep-buffer-like-temp-file-in-memory.patch
+     101  0016-Bugfix-use-realpath-on-initial-folder.patch
+      54  0017-Sidebar-Copy-numbers-before-leaving-mailbox.patch
+      78  0018-Fix-Buffy-Sidebar-and-mail_check_recent-issues.patch
+      40  0019-Copy-number-of-flagged-messages-when-leaving-mbox.patch
+      56  0020-use-PATH_MAX-instead-of-_POSIX_PATH_MAX-when-realpat.patch
+      23  0021-remove-outdated-am_c_prototypes_from_configure.patch
+      26  0022-configure.ac-Stop-using-obsolete-AM_CONFIG_HEADER-ma.patch
+    3124  mutt-sidebar.patch
 
 sgeb/homebrew-mutt                     git   58de0d2       2015-12-07  https://github.com/sgeb/homebrew-mutt                     1.5.23
-	patches/mutt-1.5.23-gmail-labels.sgeb.v1.patch
-	patches/mutt-sidebar.patch
-	patches/patch-mutt-gmailcustomsearch.v1.patch
+      77  patches/mutt-1.5.23-gmail-labels.sgeb.v1.patch
+    1474  patches/mutt-sidebar.patch
+     188  patches/patch-mutt-gmailcustomsearch.v1.patch
 
 spcmd/mutt-patched-arch                git   a7291f5       2015-07-27  https://github.com/spcmd/mutt-patched-arch                1.5.23
-	mutt-1.5.23-gmail-labels.sgeb.v1.patch
-	patch-1.5.23.sidebar.20140412.txt
-	patch-for-first-char-jf.patch
-	shortpath.patch
-	trashfolder-1.5.22.diff0.gz
+      77  mutt-1.5.23-gmail-labels.sgeb.v1.patch
+    2374  patch-1.5.23.sidebar.20140412.txt
+      11  patch-for-first-char-jf.patch
+      31  shortpath.patch
+       5  trashfolder-1.5.22.diff0.gz
 
 *** Old sidebar, NEW sidebar patches
 
 Kdecherf/mutt-lightweight-sidebar      git   07d59d3       2015-10-01  https://github.com/Kdecherf/mutt-lightweight-sidebar      1.5.24
-	mutt-lightweight-sidebar.patch
+    1869  mutt-lightweight-sidebar.patch
 
 *** Non-sidebar patches
 
 aur-archive/mutt-android-patch         git   2928965       2015-08-17  https://github.com/aur-archive/mutt-android-patch         1.5.21
-	mutt-android-patch.patch
+      33  mutt-android-patch.patch
 
 aur-archive/mutt-bare-hg               git   df06812       2015-08-17  https://github.com/aur-archive/mutt-bare-hg               1.5.21
-	mutt_bool.patch
+      11  mutt_bool.patch
 
 aur-archive/mutt-ignore-thread         git   9975a89       2015-08-17  https://github.com/aur-archive/mutt-ignore-thread         1.5.21
-	crypt-gpgme.patch
-	ignore-thread-1.5.21.patch
-	pop-cachedir.patch
+      32  crypt-gpgme.patch
+     644  ignore-thread-1.5.21.patch
+      12  pop-cachedir.patch
 
 aur-archive/mutt-kz-dgc-git            git   c4142f5       2015-08-17  https://github.com/aur-archive/mutt-kz-dgc-git            1.5.23?
-	ats.date_conditional
-	crypt-gpgme.patch
-	dgc.flagsafe
-	dgc.groupalts
-	dgc.isalias
-	dgc.markmsg
-	dgc.nested_if.2
-	dgc.setenv
-	dgc.uncollapsenew
-	hashwalk
-	obfuscat
-	replacelist
-	subjectrx
-	whitespaceok
+     121  ats.date_conditional
+      32  crypt-gpgme.patch
+      61  dgc.flagsafe
+     251  dgc.groupalts
+     127  dgc.isalias
+      94  dgc.markmsg
+     110  dgc.nested_if.2
+     165  dgc.setenv
+      46  dgc.uncollapsenew
+      53  hashwalk
+      70  obfuscat
+     342  replacelist
+     236  subjectrx
+      27  whitespaceok
 
 aur-archive/mutt-patchy                git   6002938       2015-08-17  https://github.com/aur-archive/mutt-patchy                1.5.20
-	mutt_ssl.patch
+      11  mutt_ssl.patch
 
 aur-archive/mutt-pgp-verbose-mime      git   c49643e       2015-08-17  https://github.com/aur-archive/mutt-pgp-verbose-mime      1.5.22
-	patch-1.5.4.vk.pgp_verbose_mime
+      52  patch-1.5.4.vk.pgp_verbose_mime
 
 aur-archive/mutt-rfc2047               git   ab961c8       2015-08-17  https://github.com/aur-archive/mutt-rfc2047               1.5.21
-	crypt-gpgme.patch
-	pop-cachedir.patch
+      32  crypt-gpgme.patch
+      12  pop-cachedir.patch
 
 aur-archive/mutt-sendbox               git   616a710       2015-08-17  https://github.com/aur-archive/mutt-sendbox               1.5.21
-	mutt-resent-header-weeding.patch
-	mutt-sendbox-bounce.patch
-	mutt-sendbox.patch
-	mutt-write_postponed.patch
+      39  mutt-resent-header-weeding.patch
+     119  mutt-sendbox-bounce.patch
+     125  mutt-sendbox.patch
+     456  mutt-write_postponed.patch
 
 aur-archive/mutt-sidebar-nntp          git   560b06c       2015-08-17  https://github.com/aur-archive/mutt-sidebar-nntp          1.5.20
-	mutt-unmailbox.patch
-	mutt_ssl.patch
-	patch-1.5.20.vvv.nntp.2
+      10  mutt-unmailbox.patch
+      11  mutt_ssl.patch
+    7629  patch-1.5.20.vvv.nntp.2
 
 aur-archive/mutt-trash                 git   0fca60f       2015-08-17  https://github.com/aur-archive/mutt-trash                 1.5.21
-	mutt-unmailbox.patch
-	mutt_ssl.patch
-	trash.diff
+      10  mutt-unmailbox.patch
+      11  mutt_ssl.patch
+     259  trash.diff
 
 aur-archive/mutt-trash-nntp            git   7957ce0       2015-08-17  https://github.com/aur-archive/mutt-trash-nntp            1.5.19
-	nntp.diff
-	trash.diff
+    7610  nntp.diff
+     259  trash.diff
 
 aur-archive/mutt-trash-purge           git   a8edd86       2015-08-17  https://github.com/aur-archive/mutt-trash-purge           1.5.23
-	purge_message.patch
-	trash_folder.patch
+     197  purge_message.patch
+     249  trash_folder.patch
 
 aur-archive/mutt-xtermtitle            git   70cd2a1       2015-08-17  https://github.com/aur-archive/mutt-xtermtitle            1.5.20
-	mutt-unmailbox.patch
-	mutt-xterm_title.patch
-	mutt_ssl.patch
+      10  mutt-unmailbox.patch
+     181  mutt-xterm_title.patch
+      11  mutt_ssl.patch
 
 aur-archive/uber-mutt                  git   e6f1cb9       2015-08-17  https://github.com/aur-archive/uber-mutt                  1.5.21
-	automake-1.14.patch
-	mutt-attach.patch
-	mutt-unmailbox.patch
+      30  automake-1.14.patch
+     115  mutt-attach.patch
+      10  mutt-unmailbox.patch
 
 cam13/mutt                             git   19439d3       2014-03-24  https://github.com/cam13/mutt                             1.5.22
-	trash-folder
+     283  trash-folder
 
 chadversary/pkgs.rpm.mutt-kz           git   7706b82       2013-03-16  https://github.com/chadversary/pkgs.rpm.mutt-kz           1.5.21?
-	mutt-1.5.13-nodotlock.patch
-	mutt-1.5.18-manual.patch
-	mutt-1.5.18-muttrc.patch
-	mutt-1.5.21-cabundle.patch
-	mutt-1.5.21-certscomp.patch
-	mutt-1.5.21-gpgme-1.2.0.patch
-	mutt-1.5.21-syncdebug.patch
-	mutt-1.5.21-tmpdir.patch
+      10  mutt-1.5.13-nodotlock.patch
+      12  mutt-1.5.18-manual.patch
+      20  mutt-1.5.18-muttrc.patch
+      28  mutt-1.5.21-cabundle.patch
+      27  mutt-1.5.21-certscomp.patch
+      26  mutt-1.5.21-gpgme-1.2.0.patch
+      12  mutt-1.5.21-syncdebug.patch
+      97  mutt-1.5.21-tmpdir.patch
 
 dctrwatson/mutt-gmail-patch            git   9466d75       2012-03-16  https://github.com/dctrwatson/mutt-gmail-patch            1.5.21?
-	files/extra-patch-gmail
-	Makefile.patch
+      73  files/extra-patch-gmail
+      24  Makefile.patch
 
 dgc/mutt-dgc                           hg    3d473d9d349c  2015-05-11  https://bitbucket.org/dgc/mutt-dgc                        1.5.23
-	ats.date_conditional
-	ats.mark_old
-	biff
-	complete-pattern-y
-	dbus
-	dbus2
-	dbus3
-	dgc.flagsafe
-	dgc.groupalts
-	dgc.isalias
-	dgc.markmsg
-	dgc.nested_if.2
-	dgc.setenv
-	dgc.stack
-	dgc.uncollapsenew
-	dgc.xlabel_ext
-	fancy-version
-	growl
-	hashwalk
-	keywords
-	mailboxrx
-	mq-patches
-	obfuscat
-	replacelist
-	subjectrx
-	vvv.nntp
-	whitespaceok
-	xlabel_complete
-	xlabel_complete.orig
+     121  ats.date_conditional
+     312  ats.mark_old
+     708  biff
+      61  complete-pattern-y
+     803  dbus
+     473  dbus2
+     402  dbus3
+      61  dgc.flagsafe
+     251  dgc.groupalts
+     127  dgc.isalias
+      94  dgc.markmsg
+     110  dgc.nested_if.2
+     165  dgc.setenv
+     391  dgc.stack
+      46  dgc.uncollapsenew
+     399  dgc.xlabel_ext
+      94  fancy-version
+     429  growl
+      53  hashwalk
+    1093  keywords
+     146  mailboxrx
+      39  mq-patches
+      70  obfuscat
+     339  replacelist
+     335  subjectrx
+    7697  vvv.nntp
+      27  whitespaceok
+     275  xlabel_complete
+     277  xlabel_complete.orig
 
 diabolicalMdog/mutt-spellcheck-subject git   14f523c       2014-01-28  https://github.com/diabolicalMdog/mutt-spellcheck-subject 1.5.20
-	patch-1.5.20.mh.checksubj
+     102  patch-1.5.20.mh.checksubj
 
 freddix/mutt                           git   19874e0       2014-10-13  https://github.com/freddix/mutt                           1.5.23
-	mutt-forcedotlock.patch
-	mutt-gpgme.patch
-	mutt-manual.patch
-	mutt-Muttrc_mbox_path.patch
-	mutt-po.patch
+      16  mutt-forcedotlock.patch
+      32  mutt-gpgme.patch
+      11  mutt-manual.patch
+      11  mutt-Muttrc_mbox_path.patch
+      11  mutt-po.patch
 
 gooselinux/mutt                        git   3244469       2011-12-01  https://github.com/gooselinux/mutt                        1.5.20
-	mutt-1.5.13-nodotlock.patch
-	mutt-1.5.18-manual.patch
-	mutt-1.5.18-muttrc.patch
+      10  mutt-1.5.13-nodotlock.patch
+      12  mutt-1.5.18-manual.patch
+      20  mutt-1.5.18-muttrc.patch
 
 kuperman/Mutt-Trash-Purge-patch        git   c643c3a       2014-07-31  https://github.com/kuperman/Mutt-Trash-Purge-patch        1.5.23
-	patch-1.5.20.bk.trash_folder-purge_message.1
-	patch-1.5.23.bk.trash_folder-purge_message.1
+     403  patch-1.5.20.bk.trash_folder-purge_message.1
+     403  patch-1.5.23.bk.trash_folder-purge_message.1
 
 larsks-packages/mutt-kz                git   a279d68       2014-01-02  https://github.com/larsks-packages/mutt-kz                1.5.21
-	mutt-1.5.21-nochgrp.patch
+      16  mutt-1.5.21-nochgrp.patch
 
 pdmef/muttpdmefmq                      hg    0478ca9e0813  2009-08-21  https://bitbucket.org/pdmef/muttpdmefmq                   1.5.20
-	patch-1.5.20hg.pdmef.attachparam.1
-	patch-1.5.20hg.pdmef.fadvise.1
-	patch-1.5.20hg.pdmef.foldername.1
-	patch-1.5.20hg.pdmef.hcreorg.2
-	patch-1.5.20hg.pdmef.msgno.1
-	patch-1.5.20hg.pdmef.progress.1
-	patch-1.5.20hg.pdmef.reldate.1
-	patch-1.5.20hg.pdmef.showmenu.1
-	patch-1.5.20hg.pdmef.stripwas.1
-	patch-1.5.20hg.pdmef.unfold.2
-	patch-dgc-mq-patchlist
-	patch-pdmef-misc
+      45  patch-1.5.20hg.pdmef.attachparam.1
+      69  patch-1.5.20hg.pdmef.fadvise.1
+      22  patch-1.5.20hg.pdmef.foldername.1
+     466  patch-1.5.20hg.pdmef.hcreorg.2
+      61  patch-1.5.20hg.pdmef.msgno.1
+     107  patch-1.5.20hg.pdmef.progress.1
+      30  patch-1.5.20hg.pdmef.reldate.1
+     520  patch-1.5.20hg.pdmef.showmenu.1
+      93  patch-1.5.20hg.pdmef.stripwas.1
+     109  patch-1.5.20hg.pdmef.unfold.2
+      49  patch-dgc-mq-patchlist
+      24  patch-pdmef-misc
 
 ranulf/homebrew-mutt                   git   463d685       2014-08-13  https://github.com/ranulf/homebrew-mutt                   1.5.23
-	patch-1.5.23.dgc.xlabel_ext.5
+     204  patch-1.5.23.dgc.xlabel_ext.5
 
 rejozenger/mutt-multiple-crypt-hook    git   8a38a81       2015-04-21  https://github.com/rejozenger/mutt-multiple-crypt-hook    1.5.22
-	multiple-crypt-hook.patch
+     248  multiple-crypt-hook.patch
 
 remko/homebrew-mutt                    git   0562ed0       2015-12-24  https://github.com/remko/homebrew-mutt                    1.5.24?
-	patches/mutt-gmail-custom-search.diff
-	patches/mutt-gmail-labels.diff
-	patches/mutt-trashfolder.diff
+     191  patches/mutt-gmail-custom-search.diff
+      85  patches/mutt-gmail-labels.diff
+     256  patches/mutt-trashfolder.diff
 
 suvayu/mutt-kz-spec                    git   91f1fca       2015-07-17  https://github.com/suvayu/mutt-kz-spec                    1.5.23
-	mutt-1.5.13-nodotlock.patch
-	mutt-1.5.21-cabundle.patch
-	mutt-1.5.21-gpgme-1.2.0.patch
-	mutt-1.5.21-syncdebug.patch
-	mutt-1.5.23-add_debug_option.patch
-	mutt-1.5.23-domainname.patch
-	mutt-1.5.23-sendlib.patch
-	mutt-1.5.23-system_certs.patch
+      10  mutt-1.5.13-nodotlock.patch
+      28  mutt-1.5.21-cabundle.patch
+      31  mutt-1.5.21-gpgme-1.2.0.patch
+      12  mutt-1.5.21-syncdebug.patch
+      11  mutt-1.5.23-add_debug_option.patch
+      27  mutt-1.5.23-domainname.patch
+      43  mutt-1.5.23-sendlib.patch
+      12  mutt-1.5.23-system_certs.patch
 
 williamsmj/mutt-empty-subject-patch    git   431da4f       2011-06-10  https://github.com/williamsmj/mutt-empty-subject-patch    1.5.21?
-	mutt-empty-subject.patch
+      13  mutt-empty-subject.patch
 
 williamsmj2/mutt-empty-subject-patch   git   431da4f       2011-06-10  https://bitbucket.org/williamsmj/mutt-empty-subject-patch 1.5.21?
-	mutt-empty-subject.patch
+      13  mutt-empty-subject.patch
 

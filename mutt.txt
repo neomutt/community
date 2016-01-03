@@ -16,6 +16,7 @@ weynhamz/mutt                          git   dcc6be7       2013-04-17  https://g
 hihellobolke/mutt-extra                git   451600        2014-12-28  https://github.com/hihellobolke/mutt-extra                1.5.23   OLD VERSION of arch-linux mutt-patched
 jagguli/mutt-kz                        git   6dc6732       2012-05-11  https://bitbucket.org/jagguli/mutt-kz                     1.5.21   OLD VERSION OF karelzak/mutt-kz
 pdmef/mutt-testdrive                   hg    8581235f4eec  2009-08-20  https://bitbucket.org/pdmef/mutt-testdrive                1.5.20   OLD VERSION of brendan/mutt-testdrive
+jlh/mutt-parent_child_match            git   e6c0bdb       2012-08-05  https://bitbucket.org/jlh/mutt-parent_child_match         1.5.21   IDENTICAL TO jlehen/mutt-parent_child_match
 
 *** Obsolete -- Old sidebar, nothing else
 evgeni2/mutt-sidebar                   hg    a9b7878ff6da  2014-03-12  https://bitbucket.org/evgeni/mutt-sidebar                 1.5.22   sidebar.20130219
@@ -47,7 +48,6 @@ dgc/mutt-keywords                      hg    4e78a5528284  2012-04-09  https://b
 gi1242/mutt                            git   67bc832       2014-09-07  https://github.com/gi1242/mutt                            1.5.23   x-label
 guns/mutt                              git   0581a13       2015-01-02  https://github.com/guns/mutt                              1.5.23   crypto bugfixes
 jlehen/mutt-parent_child_match         git   e6c0bdb       2012-08-05  https://github.com/jlehen/mutt-parent_child_match         1.5.21   parent-child match
-jlh/mutt-parent_child_match            git   e6c0bdb       2012-08-05  https://bitbucket.org/jlh/mutt-parent_child_match         1.5.21   IDENTICAL TO jlehen/mutt-parent_child_match
 sjl/hg-review-mutt-test                hg    08d4f19d18df  2010-07-14  https://bitbucket.org/sjl/hg-review-mutt-test             1.5.20   2 unimportant patches
 tait/mutt                              hg    2f39b47c3c39  2014-12-08  https://bitbucket.org/tait/mutt                           1.5.23   base-64 hack
 
