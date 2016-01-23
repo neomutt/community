@@ -1,0 +1,24 @@
+codito__muttng-patchset/patches/vvv.nntp.diff
+	18, no changes
+
+aur-archive__mutt-trash-nntp/nntp.diff
+	19, no changes
+
+aur-archive__mutt-sidebar-nntp/patch-1.5.20.vvv.nntp.2
+	20, minor sidebar accommodation
+
+aur-archive__mutt-great-dane/patch-1.5.21.vvv.nntp.2
+	21, minor sidebar accommodation
+
+openMandrivaAssociation__mutt/patch-1.5.23.vvv.nntp
+	23, no changes
+
+dgc__mutt-dgc/vvv.nntp
+	23, garbled patch (nntp.h missing)
+
+herecura__mutt-patched/nntp.patch
+	23, no changes
+
+pld-linux__mutt/mutt-vvv.nntp.patch
+	21, no changes
+
