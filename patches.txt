@@ -175,7 +175,7 @@ pld-linux/mutt                         git   7fbee1a       2016-01-06  https://g
      136  mutt-vvv.quote.patch
      561  mutt-xface.patch
 
-codito/muttng-patchset                 git   fa0f669       2010-12-30  https://github.com/codito/muttng-patchset                 1.5.21?
+codito/muttng-patchset                 git   fa0f669       2010-12-30  https://github.com/codito/muttng-patchset                 1.5.18
       27  patches/ak.fullname-scoring.diff
      218  patches/ak.msgid-format.diff
       27  patches/ak.rfc2047-fix.diff

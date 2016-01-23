@@ -30,7 +30,7 @@ BackupTheBerlios/mutt-ng-svn           git   31759fa       2006-04-29  https://g
 ElDeveloper/mutt                       git   8a73293       2014-09-07  https://github.com/ElDeveloper/mutt                       1.5.23   sidebar-20140412, new-command
 jakobmatthes/mutt-debian               git   e1ec09c       2012-06-04  https://github.com/jakobmatthes/mutt-debian               1.5.21   multiple sidebar
 jcs/mutt                               git   9442411       2015-12-08  https://github.com/jcs/mutt                               1.5.23   sidebar.gentoo-openbsd, various bugfixes
-karelzak/mutt-kz                       git   d97d605       2015-11-16  https://github.com/karelzak/mutt-kz                       1.5.23   sidebar-OLD, notmuch, various bugfixes
+karelzak/mutt-kz                       git   f13afeb       2016-01-03  https://github.com/karelzak/mutt-kz                       1.5.23   sidebar-OLD, notmuch, various bugfixes
 mattwind/mutt                          git   5bdbb86       2015-06-06  https://github.com/mattwind/mutt                          1.5.23   sidebar.20140412, cd.trash_folder.3.4
 psych0tik/mutt                         git   5a9a17e       2012-05-15  https://github.com/psych0tik/mutt                         1.5.21   debian patches, inc sidebar
 qmx/mutt                               git   c210b0e       2013-05-04  https://github.com/qmx/mutt                               1.5.21   sidebar-20130219, trashdir-1.5.21-6.2
